@@ -13,6 +13,7 @@ This repository contains go code used for learning purposes.
 - [Official Go website](https://golang.org/)
 - [The Go Blog](https://blog.golang.org/)
 - [The Go Playground](https://play.golang.org/)
+- [Vscode extension commands](https://github.com/golang/vscode-go/blob/master/docs/commands.md#commands)
 
 ## Video series from CockroachDB labs
 
