@@ -9,6 +9,7 @@ This repository contains go code used for learning purposes.
 ## Resources
 
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
+- [Go by Example](https://gobyexample.com/)
 - [Official Go website](https://golang.org/)
 - [The Go Blog](https://blog.golang.org/)
 - [The Go Playground](https://play.golang.org/)
