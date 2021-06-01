@@ -16,6 +16,18 @@ This repository contains go code and links used for self-learning purposes.
 - [Vscode extension commands](https://github.com/golang/vscode-go/blob/master/docs/commands.md#commands)
 - [List of Go tools](https://awesome-go.com)
 
+### ohmyzsh plugin
+
+```console
+vi ~/.zshrc
+```
+
+```config
+plugins=(
+  go
+)
+```
+
 ## Video series from CockroachDB labs
 
 [Learning Golang from Zero Playlist](https://www.youtube.com/playlist?list=PL_QaflmEF2e8O4N3mwjFkul_BNpxgO9K_)
