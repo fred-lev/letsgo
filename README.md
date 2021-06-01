@@ -1,6 +1,6 @@
 # letsgo
 
-This repository contains go code used for learning purposes.
+This repository contains go code and links used for self-learning purposes.
 
 ![alt text](https://gblobscdn.gitbook.com/assets%2F-L9Tqx5WSaiE4u24Pk05%2F-LmyGcIwYFqlc-kxzIGZ%2F-LXAJRSbtm02phRcFvU4%2Fred-green-blue-gophers-smaller.png?alt=media)
 
