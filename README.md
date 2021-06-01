@@ -22,4 +22,4 @@ The author of this video series is mostly relying on [Learn Go with Tests](https
 
 ## link to code in the repo
 
-[project1](project_1/*)
+[project1](project_1/)
