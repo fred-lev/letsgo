@@ -1,4 +1,4 @@
-package iteration
+package main
 
 // Repeat returns character repeated `repeatCount` times.
 func Repeat(character string, repeatCount int) string {
