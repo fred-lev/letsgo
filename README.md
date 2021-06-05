@@ -10,12 +10,16 @@ This repository contains go code and links used for self-learning purposes.
 
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
 - [Go by Example](https://gobyexample.com/)
+- [Go learn wiki](https://github.com/golang/go/wiki/Learn)
+
 - [Official Go website](https://golang.org/)
 - [The Go Blog](https://blog.golang.org/)
 - [The Go Playground](https://play.golang.org/)
+
 - [Vscode extension commands](https://github.com/golang/vscode-go/blob/master/docs/commands.md#commands)
 - [List of Go tools](https://awesome-go.com)
 - [go doc](https://pkg.go.dev/?utm_source=godoc)
+
 - [Learning Golang from Zero Playlist - CockroachDB Labs](https://www.youtube.com/playlist?list=PL_QaflmEF2e8O4N3mwjFkul_BNpxgO9K_)
 
 ### enable go plugin for ohmyzsh
