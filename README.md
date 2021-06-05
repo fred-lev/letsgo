@@ -1,4 +1,4 @@
-# letsgo
+# let's Go
 
 This repository contains go code and links used for self-learning purposes.
 
