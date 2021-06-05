@@ -16,11 +16,12 @@ This repository contains go code and links used for self-learning purposes.
 - [Vscode extension commands](https://github.com/golang/vscode-go/blob/master/docs/commands.md#commands)
 - [List of Go tools](https://awesome-go.com)
 - [go doc](https://pkg.go.dev/?utm_source=godoc)
+- [Learning Golang from Zero Playlist - CockroachDB Labs](https://www.youtube.com/playlist?list=PL_QaflmEF2e8O4N3mwjFkul_BNpxgO9K_)
 
-### ohmyzsh plugin
+### enable go plugin for ohmyzsh
 
 ```console
-vi ~/.zshrc
+vim ~/.zshrc
 ```
 
 ```config
@@ -28,9 +29,3 @@ plugins=(
   go
 )
 ```
-
-## Video series from CockroachDB labs
-
-[Learning Golang from Zero Playlist](https://www.youtube.com/playlist?list=PL_QaflmEF2e8O4N3mwjFkul_BNpxgO9K_)
-
-The author of this video series is mostly relying on [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/).
