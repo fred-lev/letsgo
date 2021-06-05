@@ -34,7 +34,3 @@ plugins=(
 [Learning Golang from Zero Playlist](https://www.youtube.com/playlist?list=PL_QaflmEF2e8O4N3mwjFkul_BNpxgO9K_)
 
 The author of this video series is mostly relying on [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/).
-
-## link to code in the repo
-
-[project1](./project_1/go.mod)
